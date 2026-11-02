@@ -19,12 +19,13 @@ FROSTCAST continuously monitors the temperature inside the vaccine box using a t
 The system integrates communication and location-tracking modules to support monitoring and warning functionality.
 
 ## 📸 Project Images
+📸 Project Images
 
-### 🔧 Hardware Prototype
+🔧 Hardware Prototype
 
-![FROSTCAST Hardware Prototype](images/frostcast-prototype.jpg)
+"FROSTCAST Hardware Prototype" (IMG_20261025_124423.jpg)
 
-*FROSTCAST – Intelligent Vaccine Box Monitoring and Warning System*
+FROSTCAST – Intelligent Vaccine Box Monitoring and Warning System
 
   <b>FROSTCAST – Hardware Implementation</b>
 </p>⚙️ Hardware Components
